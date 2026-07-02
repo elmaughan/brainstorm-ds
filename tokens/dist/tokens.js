@@ -1,0 +1,62 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 02 Jul 2026 16:41:05 GMT
+ */
+
+export const colorAlpine = "#23403b";
+export const colorSalt = "#f6f4ed";
+export const colorWhite = "#ffffff";
+export const colorBsiYellow = "#f1f14d";
+export const colorCarbon = "#000000";
+export const colorArches = "#b47351";
+export const colorCanyonlands = "#6c372e";
+export const colorTimpanogos = "#3f2d39";
+export const colorSage = "#a2a882";
+export const colorUinta = "#43573d";
+export const colorBonneville = "#9ebbd0";
+export const colorWasatch = "#5a87c3";
+export const colorAlbion = "#fff1b0";
+export const colorGray111 = "#111111";
+export const colorGray222 = "#222222";
+export const colorGray444 = "#444444";
+export const colorGray666 = "#666666";
+export const colorGray777 = "#777777";
+export const colorGray888 = "#888888";
+export const colorGrayAaa = "#aaaaaa";
+export const colorGrayBbb = "#bbbbbb";
+export const colorGrayCcc = "#cccccc";
+export const space1 = "0.25rem";
+export const space2 = "0.5rem";
+export const space3 = "0.75rem";
+export const space4 = "1rem";
+export const space5 = "1.25rem";
+export const space6 = "1.5rem";
+export const space7 = "1.75rem";
+export const space8 = "2rem";
+export const radiusXs = "0.25rem";
+export const radiusSm = "0.375rem";
+export const radiusInput = "0.5rem";
+export const radiusCard = "0.75rem";
+export const radiusPill = "62.4375rem";
+export const bgPage = "#f6f4ed";
+export const bgDark = "#23403b";
+export const textHeading = "#111111";
+export const textPrimary = "#222222";
+export const textBody = "#444444";
+export const textSecondary = "#666666";
+export const textMuted = "#777777";
+export const textDisabled = "#aaaaaa";
+export const textPlaceholder = "#bbbbbb";
+export const borderDefault = "#cccccc";
+export const interactiveLink = "#5a87c3";
+export const interactiveFocus = "#5a87c3";
+export const interactiveSuccess = "#43573d";
+export const interactiveWarning = "#b47351";
+export const interactiveError = "#6c372e";
+export const interactiveInfo = "#9ebbd0";
+export const chart1 = "#23403b";
+export const chart2 = "#9ebbd0";
+export const chart3 = "#3f2d39";
+export const chart4 = "#b47351";
+export const chart5 = "#43573d";
+export const chart6 = "#5a87c3";
