@@ -1,7 +1,7 @@
 # BrainStorm DS — Token Reference
 
 > Auto-generated from tokens/dist/tokens.css — do not edit directly.
-> Last updated: Thu, 02 Jul 2026 20:43:22 GMT
+> Last updated: Thu, 02 Jul 2026 20:51:39 GMT
 
 ## Usage rule
 
@@ -24,7 +24,7 @@ Always reference a CSS variable from this file.
 | `--bsn-color-uinta` | `#43573d` |
 | `--bsn-color-bonneville` | `#9ebbd0` |
 | `--bsn-color-wasatch` | `#5a87c3` |
-| `--bsn-color-albion` | `#fff1b0` |
+| `--bsn-color-albion` | `#fffacd` |
 | `--bsn-color-gray-111` | `#111111` |
 | `--bsn-color-gray-222` | `#222222` |
 | `--bsn-color-gray-444` | `#444444` |

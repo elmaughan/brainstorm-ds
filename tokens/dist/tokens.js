@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Jul 2026 20:43:21 GMT
+ * Generated on Thu, 02 Jul 2026 20:51:39 GMT
  */
 
 export const colorAlpine = "#23403b";
@@ -15,7 +15,7 @@ export const colorSage = "#a2a882";
 export const colorUinta = "#43573d";
 export const colorBonneville = "#9ebbd0";
 export const colorWasatch = "#5a87c3";
-export const colorAlbion = "#fff1b0";
+export const colorAlbion = "#fffacd";
 export const colorGray111 = "#111111";
 export const colorGray222 = "#222222";
 export const colorGray444 = "#444444";
