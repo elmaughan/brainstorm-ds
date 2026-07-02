@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:tokens": "node style-dictionary.config.js"
+    "build:tokens": "node style-dictionary.config.js",
+    "generate:skill": "node scripts/generate-skill-tokens.js",
+    "build:all": "npm run build:tokens && npm run generate:skill"
   },
   "keywords": [],
   "author": "",
